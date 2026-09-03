@@ -1,0 +1,24 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+Internship Docs/
+Thumbs.db
+.DS_Store
+.venv/
+data/raw/
+outputs/
+notebooks/
+docs/report/
+private_data/
+restricted_data/
+pseudonymized_data/
+*.xlsx
+*.xls
+*responses.csv
+*survey*.csv
+*questionnaire*.csv
+reproduced_figures/
+!public_data/
+!public_data/**
+!notebooks/
+!notebooks/**

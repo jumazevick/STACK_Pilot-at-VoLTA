@@ -1,0 +1,17 @@
+quiz_name,question_number,invalid_input,frequency
+Algebraic Operations,Q2,2.8+0.6*i,1
+Expressions,Q4,1*(cos(-1*%pi/12)+i*sin(-1*%pi/12)),1
+Expressions,Q4,16(cos((5/12)%pi)+i*sin((5/12)%pi)),1
+Expressions,Q4,9*(cos(7*%pi/12)+i*sin(7*%pi/12)),1
+Expressions,Q4,cos((1/12)%pi)+i*sin((1/12)%pi),1
+Intro to STACK,Q4,a*(e^pi_greco*x),1
+Intro to STACK,Q4,a*e^*pigreco*x,1
+Intro to STACK,Q4,a*e^pigreco,1
+Intro to STACK,Q4,a*e^πx,1
+Intro to STACK,Q5,0.33*x^2+1,1
+Modulus & Argument,Q1,%-pi/3,1
+Powers & Roots,Q2,⁠-512+512*sqrt(3)*%i⁠,1
+Powers & Roots,Q3,2*sqrt(2)*%i⁠,1
+Powers & Roots,Q4,4^(1/3)*exp(%i*5*%pi/4)⁠,1
+Powers & Roots,Q4,4^(1/3)*exp(%i*7*%pi/12)⁠,1
+Powers & Roots,Q4,⁠4^(1/3)*exp(%i*23*%pi/12)⁠,1

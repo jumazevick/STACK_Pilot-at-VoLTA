@@ -1,0 +1,22 @@
+Quiz,Question,N,Mean question score proportion,SD question score proportion,Facility Index (%)
+Intro to STACK,Q1,32,1.0,0.0,100.0
+Intro to STACK,Q2,34,0.94,0.24,94.12
+Intro to STACK,Q3,33,1.0,0.0,100.0
+Intro to STACK,Q4,29,0.59,0.5,58.62
+Intro to STACK,Q5,32,0.94,0.25,93.75
+Intro to STACK,Q6,32,0.94,0.25,93.75
+Intro to STACK,Q7,31,0.87,0.34,87.1
+Intro to STACK,Q8,32,1.0,0.0,100.0
+Algebraic Operations,Q1,37,0.77,0.29,76.76
+Algebraic Operations,Q2,35,0.77,0.43,77.14
+Algebraic Operations,Q3,36,0.81,0.4,80.56
+Modulus & Argument,Q1,36,0.84,0.35,84.03
+Modulus & Argument,Q2,32,0.75,0.32,74.75
+Powers & Roots,Q1,34,0.6,0.46,60.29
+Powers & Roots,Q2,30,0.6,0.5,60.0
+Powers & Roots,Q3,34,0.99,0.04,98.9
+Powers & Roots,Q4,34,0.9,0.12,90.44
+Expressions,Q1,35,0.61,0.42,61.43
+Expressions,Q2,35,0.8,0.35,80.0
+Expressions,Q3,34,0.74,0.45,73.53
+Expressions,Q4,30,0.87,0.26,86.67

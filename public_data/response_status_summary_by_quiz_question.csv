@@ -1,0 +1,59 @@
+quiz_name,question_number,response_status_viz,count
+Algebraic Operations,Q1,Correct,15
+Algebraic Operations,Q1,Incorrect,22
+Algebraic Operations,Q2,Correct,27
+Algebraic Operations,Q2,Incorrect,8
+Algebraic Operations,Q2,Invalid input,2
+Algebraic Operations,Q3,Correct,29
+Algebraic Operations,Q3,Incorrect,7
+Algebraic Operations,Q3,Invalid input,1
+Expressions,Q1,Correct,17
+Expressions,Q1,Incorrect,18
+Expressions,Q2,Correct,25
+Expressions,Q2,Incorrect,9
+Expressions,Q2,Invalid input,1
+Expressions,Q3,Correct,25
+Expressions,Q3,Incorrect,9
+Expressions,Q3,Invalid input,1
+Expressions,Q4,Correct,23
+Expressions,Q4,Incorrect,7
+Expressions,Q4,Invalid input,5
+Intro to STACK,Q1,Correct,32
+Intro to STACK,Q1,Invalid input,3
+Intro to STACK,Q2,Correct,32
+Intro to STACK,Q2,Incorrect,2
+Intro to STACK,Q2,Invalid input,1
+Intro to STACK,Q3,Correct,33
+Intro to STACK,Q3,Invalid input,2
+Intro to STACK,Q4,Correct,17
+Intro to STACK,Q4,Incorrect,12
+Intro to STACK,Q4,Invalid input,6
+Intro to STACK,Q5,Correct,30
+Intro to STACK,Q5,Incorrect,2
+Intro to STACK,Q5,Invalid input,3
+Intro to STACK,Q6,Correct,30
+Intro to STACK,Q6,Incorrect,2
+Intro to STACK,Q6,Invalid input,3
+Intro to STACK,Q7,Correct,27
+Intro to STACK,Q7,Incorrect,4
+Intro to STACK,Q7,Invalid input,4
+Intro to STACK,Q8,Correct,32
+Intro to STACK,Q8,Invalid input,3
+Modulus & Argument,Q1,Correct,27
+Modulus & Argument,Q1,Incorrect,6
+Modulus & Argument,Q1,Invalid input,4
+Modulus & Argument,Q2,Correct,16
+Modulus & Argument,Q2,Incorrect,16
+Modulus & Argument,Q2,Invalid input,5
+Powers & Roots,Q1,Correct,18
+Powers & Roots,Q1,Incorrect,14
+Powers & Roots,Q1,Invalid input,2
+Powers & Roots,Q2,Correct,18
+Powers & Roots,Q2,Incorrect,12
+Powers & Roots,Q2,Invalid input,4
+Powers & Roots,Q3,Correct,26
+Powers & Roots,Q3,Incorrect,3
+Powers & Roots,Q3,Invalid input,5
+Powers & Roots,Q4,Correct,10
+Powers & Roots,Q4,Incorrect,17
+Powers & Roots,Q4,Invalid input,7
