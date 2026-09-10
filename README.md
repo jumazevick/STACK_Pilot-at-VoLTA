@@ -1,5 +1,10 @@
-# STACK_Pilot-at-VoLTA
-This is a Git repo for the work I did at VoLTA when Piloting STACK
+# STACK Pilot at VoLTA
+
+Reproducible aggregate-only data and analysis materials for the manuscript
+?Evaluating Students? First-time Use of STACK in Complex-Analysis Exercises
+in an Italian Upper-Secondary School?.
+
+Public repository: <https://github.com/jumazevick/STACK_Pilot-at-VoLTA>
 
 ## Run the quiz pipeline
 
@@ -23,6 +28,8 @@ Quiz exports may be CSV or Excel files. Response exports belong in
 This repository contains the anonymised and aggregated public data supporting the manuscript. The public files include aggregated Moodle/STACK activity summaries, question-level facility-index data, response-status summaries, invalid-input frequency tables, questionnaire summary statistics, selected anonymised feedback excerpts, figure source data, and analysis scripts.
 
 Raw student-level Moodle/STACK records, linked Moodle-questionnaire datasets, and full questionnaire responses are not publicly available because the study involved upper-secondary students and these records may allow participant re-identification, even after pseudonymisation. Access to restricted data may be considered by the corresponding author upon reasonable request, subject to ethical, privacy, institutional, and school-level approval.
+
+For the wording used in the manuscript, see [`docs/data_availability_statement.md`](docs/data_availability_statement.md).
 
 ## Reproducing public figures
 

@@ -14,6 +14,7 @@ restricted_data/
 pseudonymized_data/
 *.xlsx
 *.xls
+STACK_anonymous_review_materials_*.zip
 *responses.csv
 *survey*.csv
 *questionnaire*.csv
